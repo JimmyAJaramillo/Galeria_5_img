@@ -32,7 +32,7 @@ h1{
     text-align: center;
 }
 
-#items{
+#item{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
